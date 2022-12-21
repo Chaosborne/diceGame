@@ -1,4 +1,12 @@
 # dicegame
+My work here:
+-------------
+JS development
+
+Stack I used:
+------------
+Vanilla JS
+
 You can play here:
 ------------------
 http://himmelen.space/dicegame.html  
