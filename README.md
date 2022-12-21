@@ -1,4 +1,7 @@
 # dicegame
+You can play here:
+------------------
+http://himmelen.space/dicegame.html  
 
 Rules:  
 ------
