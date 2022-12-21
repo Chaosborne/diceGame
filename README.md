@@ -1,5 +1,5 @@
 # dicegame
-My work here:
+My role here:
 -------------
 JS development from scratch
 
