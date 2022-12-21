@@ -1,7 +1,7 @@
 # dicegame
 My work here:
 -------------
-JS development
+JS development from scratch
 
 Stack I used:
 ------------
