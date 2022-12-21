@@ -1,4 +1,4 @@
-# dicegame
+# diceGame
 My role here:
 -------------
 JS development from scratch
